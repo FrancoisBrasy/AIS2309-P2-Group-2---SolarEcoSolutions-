@@ -1,6 +1,8 @@
 # AIS2309-P2-Group-2---SolarEcoSolutions-
 🛠 AIS trainees' hub for redesigning Solar Eco Solutions' network. Hands-on with secure infrastructure practices, shaping the future of network administration.
-```<?xml version="1.0" encoding="UTF-8"?>
+
+```<?xml
+version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" modified="2024-03-20T13:31:31.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="cnk4Q1c8PCgN8DlCHsk4" version="24.0.7" type="google">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="1521" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
